@@ -517,6 +517,6 @@ TS0003_3CH:
   stock_converter_model: TS0003_switch_module_2
   tuya_manufacturer_names:
     - _TZ3000_mhhxxjrs
-  human_name: TS0003-3CH-cus
-  status: WIP
-  github_issue: 5
+  human_name: No-name 3-gang switch with Neutral
+  status: Supported
+  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/85
