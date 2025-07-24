@@ -519,4 +519,4 @@ TS0003_3CH:
     - _TZ3000_mhhxxjrs
   human_name: No-name 3-gang switch with Neutral
   status: Supported
-  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/85
+  github_issue: 
