@@ -507,3 +507,16 @@ AVATTO_3_GANG_TOUCH:
   human_name: Avatto Zigbee 3 Gang (ZTS02RD-US-W3)
   status: WIP, expiremntal, see issue.
   github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/41
+TS0003_3CH:
+  name: TS0003-3CH-cus
+  config_str: TS0003-3CH-cus;TS0003-3CH-cus;BC3u;LC2i;SD7u;RD2;SB4u;RD3;SB5u;RC0;
+  device_type: router
+  tuya_manufacturer_id: 4417
+  tuya_image_type: 54179
+  firmware_image_type: 43546
+  stock_converter_model: TS0003_switch_module_2
+  tuya_manufacturer_names:
+    - _TZ3000_mhhxxjrs
+  human_name: TS0003-3CH-cus
+  status: WIP
+  github_issue: 5
