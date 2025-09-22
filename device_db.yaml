@@ -616,3 +616,16 @@ TS011F_BSEED_PM:
   - https://www.aliexpress.com/item/1005004402438527.html
   - https://www.aliexpress.com/i/1005005835434423.html
   - https://www.aliexpress.com/item/1005003350696939.html
+WHD02_V03:
+  config_str: skueekg3;WHD02-V03;BD2u;LC3;SB5u;RB4
+  device_type: router
+  tuya_manufacturer_id: 4107
+  tuya_image_type: 4417
+  firmware_image_type: 43577
+  stock_converter_model: WHD02
+  tuya_manufacturer_name: _TZ3000_skueekg3
+  old_manufacturer_names:
+  - Tuya-WHD02-custom
+  human_name: Mini smart switch
+  status: Supported via wire only
+  
