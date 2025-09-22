@@ -617,10 +617,10 @@ TS011F_BSEED_PM:
   - https://www.aliexpress.com/i/1005005835434423.html
   - https://www.aliexpress.com/item/1005003350696939.html
 WHD02_V03:
-  config_str: skueekg3;WHD02-V03;BD2;LC3;SB5;RB4;
+  config_str: skueekg3;WHD02-V03;BD2u;LC3;SB5u;RB4;
   device_type: router
   tuya_manufacturer_id: 4107
-  tuya_image_type: 524
+  tuya_image_type: 54179
   firmware_image_type: 43577
   stock_converter_model: WHD02
   tuya_manufacturer_name: _TZ3000_skueekg3
