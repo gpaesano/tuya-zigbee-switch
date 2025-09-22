@@ -620,7 +620,7 @@ WHD02_V03:
   config_str: skueekg3;WHD02-V03;BD2;LC3;SB5;RB4;
   device_type: router
   tuya_manufacturer_id: 4107
-  tuya_image_type: 4417
+  tuya_image_type: 54179
   firmware_image_type: 43577
   stock_converter_model: WHD02
   tuya_manufacturer_name: _TZ3000_skueekg3
