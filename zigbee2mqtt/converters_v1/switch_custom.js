@@ -2103,7 +2103,7 @@ const definitions = [
     },
     {
         zigbeeModel: [
-            "WHD02-V03",
+            "WHD02-custom",
         ],
         model: "WHD02",
         vendor: "Tuya-custom",
