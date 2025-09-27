@@ -617,7 +617,7 @@ TS011F_BSEED_PM:
   - https://www.aliexpress.com/i/1005005835434423.html
   - https://www.aliexpress.com/item/1005003350696939.html
 WHD02_V03:
-  config_str: skueekg3;WHD02-V03;BB1u;LB4;SD2u;RD3;
+  config_str: skueekg3;WHD02-custom;BB1u;LB4;SD2u;RD3;
   device_type: router
   tuya_manufacturer_id: 4107
   tuya_image_type: 524
@@ -627,5 +627,5 @@ WHD02_V03:
   old_manufacturer_names:
   - Tuya-WHD02-custom
   human_name: Mini smart switch
-  status: Supported via wire only
+  status: Supported via wire only fake Z2TS pins remapped
   
