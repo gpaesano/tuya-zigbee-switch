@@ -627,5 +627,6 @@ WHD02_V03:
   old_manufacturer_names:
   - Tuya-WHD02-custom
   human_name: Mini smart switch
-  status: Supported via wire only fake Z2TS pins remapped
+  zb_module: ZT2S
+  status: to beflashed via wire only fake Z2TS with no shield pins remapped
   
