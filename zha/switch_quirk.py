@@ -140,7 +140,7 @@ CONFIGS = [
     "avky2mvc;Avatto-3-touch;LB5;SD3u;RC2;SD7u;RC3;SD4u;RD2;M;",
     "o1jzcxou;TS011F-BS;LC2;SB4u;RC3;ID2;M;",
     "b28wrpvx;TS011F-BS-PM;LC3;SB5u;RD2;IB4;M;",
-    "skueekg3;WHD02-custom;BB1u;LB4;SD2u;RD3;",
+    "skueekg3;WHD02-custom;BB1u;LB4i;SD2u;RD3;",
 ]
 
 for config in CONFIGS:
